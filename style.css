@@ -1,0 +1,15 @@
+.problem1{
+	background:#f1f1f1;
+	padding:60px;
+	text-align: center;
+}
+
+.problem1 h1, .problem1 h3, .problem1 p{
+	margin-bottom:30px;
+}
+
+.javascriptCode{
+	text-align:left !important;
+	font-size:12px;
+	display:none;
+}
