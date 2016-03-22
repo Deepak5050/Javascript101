@@ -1,15 +1,24 @@
-.problem1{
+.row {
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+.col_1{
 	background:#f1f1f1;
 	padding:60px;
 	text-align: center;
+	max-width: 300px;
+	display: inline-block;
 }
 
-.problem1 h1, .problem1 h3, .problem1 p{
+.col_1 h1, .col_1 h3, .col_1 p{
 	margin-bottom:30px;
 }
 
 .javascriptCode{
 	text-align:left !important;
-	font-size:12px;
+	font-size:13px;
 	display:none;
 }
