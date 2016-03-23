@@ -1,3 +1,4 @@
+/*Solution to Problem 1*/
 function answer(){
 var inputValue = document.getElementById("input1").value;
 var myAnswer = document.getElementById("answer1");
@@ -12,7 +13,7 @@ add += counter;
 myAnswer.value = add;	
 };
 
-
+/*Solution to Problem 2*/
 function answer2(inputValue) {
 	var inputValue = document.getElementById("input2").value;
 	var myAnswer = document.getElementById("answer2");
@@ -29,7 +30,7 @@ function answer2(inputValue) {
     myAnswer.value = sum;
 }
 
-
+/*Solution to Problem 3*/
 function answer3(inputValue) {
 	var inputValue = document.getElementById("input3").value;
 	var myAnswer = document.getElementById("answer3");
